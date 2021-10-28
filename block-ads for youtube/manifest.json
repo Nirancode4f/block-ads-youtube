@@ -2,7 +2,7 @@
     "name": "Youtube Delete Ads",
     "manifest_version": 2,
     "version": "0.0.1",
-    "description": "Extension skip ads by khag",
+    "description": "Extension delete ads by khag",
     "content_scripts": [{
        "matches": [
           "https://www.youtube.com/*"
